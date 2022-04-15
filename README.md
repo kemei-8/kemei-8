@@ -1,4 +1,4 @@
-### Helllo! 👋
+### Hello! 👋
 
 I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
 
