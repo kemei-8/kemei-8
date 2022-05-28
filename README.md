@@ -2,9 +2,6 @@
 
 I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
 
- - 🌱 I’m currently learning C and C++ 
- - 📫 How to reach me: kellymei2024@u.northwestern.edu
-
 <!--
 **kemei-8/kemei-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
