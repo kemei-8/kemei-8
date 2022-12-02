@@ -104,7 +104,7 @@ p {
 .nav-bar ul li a {
     font-family: 'Noto Sans SC', sans-serif;
     position: relative;
-    color: gray;
+    color: black;
     text-decoration: none;
     padding-bottom: 0.25rem;
 }
