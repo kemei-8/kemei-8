@@ -2,6 +2,9 @@
 
 I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
 
+Check out my personal website here:
+https://kemei-8.github.io/kemei-8/index.html 
+
 <!--
 **kemei-8/kemei-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
