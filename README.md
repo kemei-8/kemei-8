@@ -2,7 +2,7 @@
 
 I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
 
-Check out my personal website here:
+Check out my personal website (created with plain HTML/CSS) here:
 https://kemei-8.github.io/kemei-8/index.html 
 
 <!--
