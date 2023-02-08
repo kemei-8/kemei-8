@@ -1,11 +1,11 @@
+<!--
 ### Hello! 👋
 
-### I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
+I'm @kemei-8, an undergrad studying Computer Science & Design at Northwestern University!
 
-### Check out my personal website (created with plain HTML/CSS) here:
-### https://kemei-8.github.io/kemei-8/index.html 
+ Check out my personal website (created with plain HTML/CSS) here:
+ https://kemei-8.github.io/kemei-8/index.html 
 
-<!--
 **kemei-8/kemei-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
