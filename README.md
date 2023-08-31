@@ -1,8 +1,8 @@
 ### 💻 Kelly Mei (@kemei-8)
 
-I'm Kelly, a fourth year undergrad studying Computer Science & Design at Northwestern University!
+I'm Kelly, a fourth year undergrad studying Computer Science & Design at Northwestern University! 
 
- Check out my personal portfolio [here](react-portfolio-kemei-8.vercel.app)
+ Check out my personal portfolio [here](https://react-portfolio-kemei-8.vercel.app)! 
 
 <!--
 **kemei-8/kemei-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
