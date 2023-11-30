@@ -1,6 +1,6 @@
 ### 💻 Kelly Mei (@kemei-8)
 
-I'm Kelly, a fourth year undergrad studying Computer Science & Design at Northwestern University! 
+I'm Kelly, a fourth year undergrad studying Computer Science & HCI at Northwestern University! 
 
  Check out my personal portfolio [here](https://react-portfolio-kemei-8.vercel.app)! 
 
