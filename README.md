@@ -1,6 +1,5 @@
-### 💻 Kelly Mei (@kemei-8)
+###
 
-I'm Kelly, a fourth year undergrad studying Computer Science & HCI at Northwestern University! 
 
 <!--
 **kemei-8/kemei-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
